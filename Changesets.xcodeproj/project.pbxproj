@@ -272,6 +272,7 @@
 				TargetAttributes = {
 					AA1BCD581BD9D47B00AB6D1C = {
 						CreatedOnToolsVersion = 7.1;
+						LastSwiftMigration = 1010;
 					};
 					AAC5BB4B1B7FDF2200840D1E = {
 						CreatedOnToolsVersion = 7.0;
@@ -397,6 +398,7 @@
 				PRODUCT_NAME = Changesets;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 			};
@@ -416,6 +418,7 @@
 				PRODUCT_NAME = Changesets;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 			};
